@@ -17,6 +17,7 @@ https://youtu.be/weatrnUde38<br>
 Xboxコントローラ基準で、Bボタンでドミノ配置、Aボタンで緑の魔法陣起動、Xボタンで青の魔法陣起動、Yボタンで黄色の魔法陣起動<br>
 Lトリガーでワープ先魔法陣の切り替え、Rトリガーで魔法陣へワープ<br>
 # 担当箇所<br>
+全てBlueprintなので、拡張子を省いています<br>
 <br>
 自分が担当<br>
 レベルブループリントの内、コメントが水色の部分<br>
@@ -28,7 +29,6 @@ Books_Blueprint<br>
 Skate_Blueprint<br>
 pitaGameState<br>
 <br>
-全てBlueprintなので、拡張子を省いています<br>
 チームの別のプログラマが担当<br>
 レベルブループリントの内、コメントが緑の部分<br>
 MainUI<br>
