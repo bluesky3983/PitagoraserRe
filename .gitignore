@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+=======
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+>>>>>>> settings
