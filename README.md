@@ -26,6 +26,7 @@ Cola_Blueprint<br>
 houki_Blueprint<br>
 Books_Blueprint<br>
 Skate_Blueprint<br>
+pitaGameState<br>
 <br>
 全てBlueprintなので、拡張子を省いています<br>
 チームの別のプログラマが担当<br>
@@ -35,3 +36,11 @@ ResultUI<br>
 TitleUI<br>
 TutorialUI<br>
 AI_Enemy<br>
+<br>
+<br>
+以下に、画面遷移図と一部のクラス図を掲載します。<br>
+![default](https://cloud.githubusercontent.com/assets/19707051/23805961/40689f3e-0603-11e7-94b0-94f56e696bcf.PNG)<br>
+CharacterClass部分は、PlayerのBlueprintに該当します。<br>
+![default](https://cloud.githubusercontent.com/assets/19707051/23805952/3cc3877c-0603-11e7-94c6-8561e4cc79d2.PNG)<br>
+<br>
+![default](https://cloud.githubusercontent.com/assets/19707051/23805962/423277ea-0603-11e7-8b7c-f30d73a54bd7.PNG)<br>
